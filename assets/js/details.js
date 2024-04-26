@@ -36,7 +36,7 @@ const renderPokemonDetails = (pokemon) => {
     return `
       <div id="pokemonDetail" class="detailList ${primaryType}">
          <div class="header">
-            <a href="https://geovane399567.github.io/desafio_pokedex_DIO/"><span class="material-symbols-outlined icon">keyboard_backspace</span></a>
+            <a href="index.html"><span class="material-symbols-outlined icon">keyboard_backspace</span></a>
             <span class="material-symbols-outlined icon">favorite</span>
          </div>
          <div class="name-types">
