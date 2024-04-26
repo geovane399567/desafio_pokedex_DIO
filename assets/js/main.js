@@ -11,7 +11,7 @@ let offset = 0;
 
 function convertPokemonToLi(pokemon) {
     return `
-    <a href= "details.html?id=${pokemon.number}">
+    <a href= "https://geovane399567.github.io/desafio_pokedex_DIO/details.html?=id${pokemon.number}">
         <li class="pokemon ${pokemon.type}">
             <span class="number">#${pokemon.number}</span>
             <span class="name">${pokemon.name}</span>
