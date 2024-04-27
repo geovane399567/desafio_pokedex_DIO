@@ -1,6 +1,6 @@
 
 const params = new URLSearchParams(window.location.search);
-const pokemonName = params.get('name');
+const id = params.get('id');
 const url = `https://pokeapi.co/api/v2/pokemon/${id}`
 const fetchData = (url) => {
     return fetch(url)
