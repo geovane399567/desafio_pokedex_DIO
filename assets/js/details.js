@@ -9,7 +9,7 @@ const fetchData = (url) => {
 const url = `https://pokeapi.co/api/v2/pokemon/${id}`
 const fetchData = (id) => {
 >>>>>>> 13fc0e233bd322842b565b9bcd890892ac4071a1
-    return fetch(url)
+    return fetch(url) {
         .then((response) => response.json());
 };
 
