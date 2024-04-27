@@ -1,9 +1,9 @@
 
 const params = new URLSearchParams(window.location.search);
 const pokemonName = params.get('name');
-
-const fetchData = (pokemonName) => {
-    return fetch(`https://pokeapi.co/api/v2/pokemon/${name}`)
+const url = `https://pokeapi.co/api/v2/pokemon/${id}`
+const fetchData = (url) => {
+    return fetch(url)
         .then((response) => response.json());
 };
 
