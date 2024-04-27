@@ -279,17 +279,6 @@ body {
 
 }
 
-/*.list_value {
-    display: flex;
-    align-items: baseline;
-    font-size: 1rem;
-    font-weight: 500;
-    color: #000;
-    padding: .7rem .5rem;
-    
-  
-}
-*/
 
 .details_content {
     display: flex;
