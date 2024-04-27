@@ -36,8 +36,10 @@ const renderPokemonDetails = (pokemon) => {
     return `
       <div id="pokemonDetail" class="detailList ${primaryType}">
          <div class="header">
-            <a href="index.html"><span class="material-symbols-outlined icon">keyboard_backspace</span></a>
-            <span class="material-symbols-outlined icon">favorite</span>
+            <a href="index.html"><span class="material-symbols-outlined icon">
+            line_start_arrow_notch
+            </span></a>
+            
          </div>
          <div class="name-types">
             <ul id="data-head">

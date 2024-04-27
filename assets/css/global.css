@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #3b61a0;
+    background-color: #fff;
 }
 
 .content {
@@ -24,6 +24,12 @@ body {
     text-transform: uppercase;
     font-size: 3rem;
     font-weight: 800;
+}
+.content p {
+    font-size: .8rem;
+    font-weight: 300;
+    color: #3b61a0;
+    text-align: center;
 }
 
 .content a {
