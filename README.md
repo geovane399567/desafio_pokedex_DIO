@@ -6,7 +6,7 @@ O projeto em si trata da utilização de uma API externa, no caso, a PokeApi, do
 
 Na segunda parte do projeto, foi feito o desafio, que era criar a página de detalhes para cada Pokemóm da lista. O objetivo era que, ao clicar em um item, o usuário seja direcionado para a página contendo detalhes do Pokemón clicado. Assim, fiz uma nova requisição(Fetch) desta vez utilizando parâmetros de busca por ID. Então, para cada resultado, era necessário pegar detalhes da API, além dos principais (nome, ID e foto) e exibir no HTML, numa nova página. 
 
-Tive alguma dificuldade, pois esse é meu primeiro curso de JavaScript completo. O layout ficou simples, tentei utilizar a identidade visual dos Pokemóns, mas não fui muito fundo no design, já que o objetivo era aprender JS. Ainda ficou um problema de responsividade para telas muito pequenas, já que não tenho controle sobre quantos dados são exibidos(o número difere para cada) e não tenho muita experiência em desenvolvimento web ainda. 
+Tive alguma dificuldade, pois esse é meu primeiro curso de JavaScript completo. O layout ficou simples, não fui muito fundo no design, já que o objetivo era aprender JS. Ainda ficou um problema de responsividade para telas muito pequenas, já que não tenho controle sobre quantos dados são exibidos(o número difere para cada) e não tenho muita experiência em desenvolvimento web ainda. 
 
 Para o que já aprendi, até que o resultado ficou satisfatório.
 
