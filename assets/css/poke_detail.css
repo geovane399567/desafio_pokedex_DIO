@@ -81,7 +81,7 @@
 
 
 body {
-    background-color: #feca1d;
+    background-color: #6f38f6;
 
 }
 
@@ -96,16 +96,12 @@ body {
     padding: 1rem;
     background-color: #fff;
     border: .1rem solid #3b61a0;
-    border-radius: 1rem;
-    -webkit-border-radius: 1rem;
-    -moz-border-radius: 1rem;
-    -ms-border-radius: 1rem;
-    -o-border-radius: 1rem;
+   
 }
 
 .content_detail h1 {
     text-align: center;
-    color: #feca1d;
+    color: #3b61a0;
     -webkit-text-stroke-width: .2rem;
     -webkit-text-stroke-color: #3b61a0;
     text-transform: uppercase;
@@ -117,11 +113,6 @@ body {
     height: auto;
     display: flex;
     flex-direction: column;
-    border-radius: 1.5rem;
-    -webkit-border-radius: 1.5rem;
-    -moz-border-radius: 1.5rem;
-    -ms-border-radius: 1.5rem;
-    -o-border-radius: 1.5rem;
     list-style: none;
 }
 
@@ -235,12 +226,7 @@ body {
     margin: 0 auto;
     background-color: #fff;
     margin-top: -3rem;
-    border-radius: 1rem;
     z-index: 1;
-    -webkit-border-radius: 1rem;
-    -moz-border-radius: 1rem;
-    -ms-border-radius: 1rem;
-    -o-border-radius: 1rem;
     list-style: none;
 }
 
@@ -310,7 +296,7 @@ body {
 
     .content_detail h1 {
         text-align: center;
-        color: #feca1d;
+        color: #3b61a0;
         -webkit-text-stroke-width: .3rem;
         -webkit-text-stroke-color: #3b61a0;
         text-transform: uppercase;
@@ -325,6 +311,6 @@ body {
         width: 60%;
         height: auto;
         margin: 1rem auto;
-        border-radius: 1rem;
+        
     }
 }

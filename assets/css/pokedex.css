@@ -90,7 +90,7 @@
     flex-direction: column;
     margin: .5rem;
     padding: 1rem;
-    border-radius: 1rem;
+    border: .1rem solid #6f38f6 ;
 }
 
 
@@ -145,13 +145,13 @@
 }
 
 .pagination button {
-    padding: .25rem .5rem;
+    padding: .5rem 1rem;
     margin: .25rem 0;
-    font-size: .625rem;
-    color: #fff;
-    background-color: #6c79db;
-    border: none;
-    border-radius: 1rem;
+    font-size: 1rem;
+    color: #333;
+    
+    border: 1px solid #feca1d;
+    
 }
 
 @media screen and (min-width: 380px) {
